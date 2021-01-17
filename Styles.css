@@ -1,0 +1,27 @@
+body {
+  background-color: #f5fffa;
+}
+
+hr {
+  border: dotted #393e46;
+  border-width: 6px 0 0 0;
+  width: 5%;
+}
+h1{
+  color: #393e46;
+}
+h3{
+  color: #393e46;
+}
+p{
+  color: #222831;
+}
+table{
+  color: #222831;
+}
+li{
+  color: #222831;
+}
+a{
+  color: #212121;
+}
